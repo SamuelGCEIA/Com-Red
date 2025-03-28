@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "ADXL_345",
+			"path": "ADXL_345"
+		}
+	],
+	"settings": {}
+}
